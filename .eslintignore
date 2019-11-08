@@ -14,3 +14,6 @@
 
 # ember-try
 /.node_modules.ember-try/
+
+# temp ignore single native class
+/tests/dummy/app/models/user.js
